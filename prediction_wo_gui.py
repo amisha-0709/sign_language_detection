@@ -5,9 +5,9 @@ import numpy as np
 from keras.models import load_model
 import traceback
 
-model = load_model('/cnn8grps_rad1_model.h5')
+model = load_model('A:\desktop\progit\Sign-Language-To-Text-and-Speech-Conversion\cnn8grps_rad1_model.h5')
 white = np.ones((400, 400), np.uint8) * 255
-cv2.imwrite("C:\\Users\\devansh raval\\PycharmProjects\\pythonProject\\white.jpg", white)
+cv2.imwrite("A:\desktop\progit\Sign-Language-To-Text-and-Speech-Conversion\white.jpg, white)
 
 capture = cv2.VideoCapture(0)
 
