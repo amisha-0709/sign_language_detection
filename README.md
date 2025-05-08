@@ -1,4 +1,4 @@
-# 🧠 Sign Language to Text and Speech Converter (Indian Sign Language)
+![image](https://github.com/user-attachments/assets/150b8f6e-6851-495c-a8e2-27831000061d)# 🧠 Sign Language to Text and Speech Converter (Indian Sign Language)
 
 ![Sign Language Translation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sign_language_ASL.png/800px-Sign_language_ASL.png)
 
@@ -40,6 +40,45 @@ This project provides a **real-time translation system for Indian Sign Language 
 
 ---
 
-![image](https://github.com/user-attachments/assets/a317c7bd-877d-4cc9-b858-4190ff62f3c1)
+SNAPSHOTS
+ 
+FIGURE 8- MEDIA PIPE LANDMARK SYSTEM
+
+![image](https://github.com/user-attachments/assets/6e382d31-0516-455e-9622-df988ce3459d)
+
+
+We have collected images of different signs of different angles for sign letter A to Z.
+
+![image](https://github.com/user-attachments/assets/1b233bfc-700f-44c7-a1ae-4485896a2a27)
+
+ 
+FIGURE 9- DATA COLLECTION
+
+Mediapipe Landmark System:
+
+![image](https://github.com/user-attachments/assets/3aca8af7-455d-4978-99cd-8adcce8d9a12)
+
+![image](https://github.com/user-attachments/assets/7e99c554-52b0-4172-ad89-7ce824f2858b)
+
+![image](https://github.com/user-attachments/assets/2db6ab23-dc62-45f0-8e36-7a0f91f9079d)
+ 
+![image](https://github.com/user-attachments/assets/06a89733-56d4-418d-8852-a1b614f12854)
+  
+![image](https://github.com/user-attachments/assets/aef286b2-4db6-49bd-a948-ec4a36bdd00a)
+ 
+![image](https://github.com/user-attachments/assets/98e3146c-d525-49a4-9521-b3034a24f0d5)
+
+  
+Now we get this landmark points and draw it in plain white background using opencv libray
+
+![image](https://github.com/user-attachments/assets/a06a8954-0047-42ff-937e-eb6b0f391ea2)
+
+![image](https://github.com/user-attachments/assets/a759ee5d-4f1c-4b9f-8489-94fb16c5911b)
+
+![image](https://github.com/user-attachments/assets/89b88292-1e4f-4330-adf3-8f12b03114e8)
+
+Now we get this landmark points and draw it in plain white background using opencv library
+-By doing this we tackle the situation of background and lightning conditions because the mediapipe labrary will give us landmark points in any background and mostly in any lightning conditions.
+
 
 
