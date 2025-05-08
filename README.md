@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/150b8f6e-6851-495c-a8e2-27831000061d)# 🧠 Sign Language to Text and Speech Converter (Indian Sign Language)
+# 🧠 Sign Language to Text and Speech Converter (Indian Sign Language)
 
 ![Sign Language Translation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sign_language_ASL.png/800px-Sign_language_ASL.png)
 
