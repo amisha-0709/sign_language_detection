@@ -40,5 +40,6 @@ This project provides a **real-time translation system for Indian Sign Language 
 
 ---
 
+![image](https://github.com/user-attachments/assets/a317c7bd-877d-4cc9-b858-4190ff62f3c1)
 
 
